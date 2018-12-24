@@ -1,1 +1,1 @@
-https://img.shields.io/badge/<python>-<3.7>-<red>.svg
+https://img.shields.io/badge/color-brightgreen-brightgreen.svg
